@@ -1,0 +1,13 @@
+# Firebase config - keep out of the public repo, carry it separately
+GoogleService-Info.plist
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+build/
+.swiftpm/
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
